@@ -1,0 +1,18 @@
+@import url('substyles.css/header.css');
+@import url('substyles.css/contenedor-post.css');
+@import url('substyles.css/contenedor-foto.css');
+@import url('substyles.css/contenedor-iconos.css');
+@import url('substyles.css/likes.css');
+@import url('substyles.css/descripcion-post.css');
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: monospace;
+}
+
+body{
+    text-align: center;
+    background: black;
+}
+
+

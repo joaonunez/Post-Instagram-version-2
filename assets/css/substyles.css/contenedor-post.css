@@ -1,0 +1,17 @@
+.publicacion{
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    width: 400px;
+    height: 800px;
+    background-color: white;
+}
+
+@media(max-width: 768px){
+    .publicacion{
+        margin-top: 0px;
+        width: 100%;
+
+        
+    }
+}
