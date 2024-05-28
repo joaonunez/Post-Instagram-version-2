@@ -1,28 +1,31 @@
 .contenedor-iconos{
     position: relative;
-    height: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.to-izquierda{
+    align-items: center;
 }
 .icono-corazon{
-    float: left;
+    justify-content: start;
     font-size: 30px;
     margin-left: 10px;
-    margin-top: 5px;
 }
 .icono-comentar{
-    float: left;
+    justify-content: start;
     font-size: 30px;
     margin-left: 10px;
-    margin-top: 5px;
+    
 }
 .icono-compartir{
-    float: left;
     font-size: 30px;
     margin-left: 10px;
-    margin-top: 5px;
+}
+.to-derecha{
+    align-items: center;
 }
 .icono-guardar{
-    float: right;
+  
     font-size: 30px;
     margin-right: 10px;
-    margin-top: 5px;
 }
