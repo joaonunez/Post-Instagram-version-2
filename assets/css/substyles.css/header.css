@@ -1,5 +1,6 @@
 .header-publicacion{
-    height: 60px;
+    height: auto;
+    margin: 5px;
     display: flex;
     justify-content: space-between;
 
