@@ -1,9 +1,12 @@
 .descripcion-post{
     text-align: left;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 10px;
 }
 
 .parrafo-descripcion{
     text-align: left;
-    margin-left: 5px;
+    
     font-size: 15px;
 }
